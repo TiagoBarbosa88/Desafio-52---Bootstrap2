@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Mulish:ital,wght@0,700;1,200;1,400;1,600&family=Roboto:ital,wght@0,100;0,400;1,700&display=swap");
+@import url("https://cdn.es.gov.br/fonts/font-awesome/css/font-awesome.min.css");
+body {
+    min-width: 372px;
+}
+
+.wrapper {
+    min-height: 100vh;
+}

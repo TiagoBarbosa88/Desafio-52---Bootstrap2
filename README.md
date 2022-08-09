@@ -1,6 +1,6 @@
 # Desafio-52---Bootstrap2
 
-Projeto baseado no desafio financeiro de guardar dinheiro por 52 semanas de um grande amigo [Fabricio Sena Dev](https://fabriciosenadev.github.io/desafio52/)
+Projeto baseado no desafio financeiro de guardar dinheiro por 52 semanas de um grande amigo [Fabricio Sena Dev](https://github.com/fabriciosenadev)
 
 -Praticar e estudar Html, Bootstrap e JavaScript
 
